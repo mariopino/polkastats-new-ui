@@ -1,0 +1,185 @@
+{
+	"scores": 
+	[
+		{
+			"title": "Ultimo Bloque",
+			"count": "1234556"
+		},
+		{
+			"title": "Finalizado",
+			"count": "1234556"
+		},
+		{
+			"title": "Total Extrinsics",
+			"count": "1234556"
+		},
+		{
+			"title": "Total Events",
+			"count": "1234556"
+		},
+		{
+			"title": "Cuentas",
+			"count": "1234556"
+		},
+		{
+			"title": "Transferencias",
+			"count": "1234556"
+		},
+		{
+			"title": "Era Activa",
+			"count": "1234556"
+		},
+		{
+			"title": "Emision Total",
+			"count": "1234556"
+		},
+		{
+			"title": "Total Stakeado",
+			"count": "1234556"
+		},
+		{
+			"title": "Sesion Actual",
+			"count": "1234556"
+		},
+		{
+			"title": "Validadores",
+			"count": "1234556"
+		},
+		{
+			"title": "Nominadores",
+			"count": "1234556"
+		}
+	],
+	"issuance":
+	{
+		"data":
+		[
+			14000000,
+			13000000,
+			12000000,
+			13000000,
+			14000000,
+			15000000,
+			14000000,
+			13000000,
+			16000000,
+			17000000,
+			11000000,
+			18000000,
+			14000000,
+			16000000,
+			12000000,
+			18000000,
+			17000000,
+			12000000,
+			14000000,
+			12000000,
+			14000000,
+			12000000,
+			17000000,
+			15000000,
+			13000000,
+			14000000,
+			14000000,
+			14000000,
+			14000000,
+			14000000,
+			14000000,
+			14000000,
+			14000000,
+			14000000,
+			14000000
+		],
+		"labels":
+		[
+			11303161,
+			11303161,
+			11303161,
+			11303161,
+			11303161,
+			11303161,
+			11303161,
+			11303161,
+			11303161,
+			11303161,
+			11303161,
+			11303161,
+			11303161,
+			11303161,
+			11303161,
+			11303161,
+			11303161,
+			11303161,
+			11303161,
+			11303161,
+			11303161,
+			11303161,
+			11303161,
+			11303161,
+			11303161,
+			11303161,
+			11303161,
+			11303161,
+			11303161,
+			11303161,
+			11303161,
+			11303161,
+			11303161,
+			11303161,
+			11303161,
+			11303161
+		]
+	},
+	"blocks":
+	[
+		{ "block": "#11,721,268", "hash": "0x5579 ... 43f7", "extrinsics": "6", "events": "84", "status": "completed" },
+		{ "block": "#11,721,268", "hash": "0x5579 ... 43f7", "extrinsics": "6", "events": "84", "status": "completed" },
+		{ "block": "#11,721,268", "hash": "0x5579 ... 43f7", "extrinsics": "6", "events": "84", "status": "completed" },
+		{ "block": "#11,721,268", "hash": "0x5579 ... 43f7", "extrinsics": "6", "events": "84", "status": "completed" },
+		{ "block": "#11,721,268", "hash": "0x5579 ... 43f7", "extrinsics": "6", "events": "84", "status": "completed" },
+		{ "block": "#11,721,268", "hash": "0x5579 ... 43f7", "extrinsics": "6", "events": "84", "status": "completed" },
+		{ "block": "#11,721,268", "hash": "0x5579 ... 43f7", "extrinsics": "6", "events": "84", "status": "completed" },
+		{ "block": "#11,721,268", "hash": "0x5579 ... 43f7", "extrinsics": "6", "events": "84", "status": "completed" },
+		{ "block": "#11,721,268", "hash": "0x5579 ... 43f7", "extrinsics": "6", "events": "84", "status": "completed" },
+		{ "block": "#11,721,268", "hash": "0x5579 ... 43f7", "extrinsics": "6", "events": "84", "status": "completed" }
+	],
+	"transfers":
+	[
+		{ "hash": "0x5579 ... 43f7", "from": "Em6ef ... AwhkK", "to": "CmacZ ... 174fX", "amount": "23.000 KSM" },
+		{ "hash": "0x5579 ... 43f7", "from": "Em6ef ... AwhkK", "to": "CmacZ ... 174fX", "amount": "23.000 KSM" },
+		{ "hash": "0x5579 ... 43f7", "from": "Em6ef ... AwhkK", "to": "CmacZ ... 174fX", "amount": "23.000 KSM" },
+		{ "hash": "0x5579 ... 43f7", "from": "Em6ef ... AwhkK", "to": "CmacZ ... 174fX", "amount": "23.000 KSM" },
+		{ "hash": "0x5579 ... 43f7", "from": "Em6ef ... AwhkK", "to": "CmacZ ... 174fX", "amount": "23.000 KSM" },
+		{ "hash": "0x5579 ... 43f7", "from": "Em6ef ... AwhkK", "to": "CmacZ ... 174fX", "amount": "23.000 KSM" },
+		{ "hash": "0x5579 ... 43f7", "from": "Em6ef ... AwhkK", "to": "CmacZ ... 174fX", "amount": "23.000 KSM" },
+		{ "hash": "0x5579 ... 43f7", "from": "Em6ef ... AwhkK", "to": "CmacZ ... 174fX", "amount": "23.000 KSM" },
+		{ "hash": "0x5579 ... 43f7", "from": "Em6ef ... AwhkK", "to": "CmacZ ... 174fX", "amount": "23.000 KSM" },
+		{ "hash": "0x5579 ... 43f7", "from": "Em6ef ... AwhkK", "to": "CmacZ ... 174fX", "amount": "23.000 KSM" }
+	],
+	"extrinsics":
+	[
+		{ "id": "11,733,803-3", "hash": "0xec46 ... 8976", "extrinsic": ["parainherent", "hearbeat"] },
+		{ "id": "11,733,803-3", "hash": "0xec46 ... 8976", "extrinsic": ["parainherent", "hearbeat"] },
+		{ "id": "11,733,803-3", "hash": "0xec46 ... 8976", "extrinsic": ["parainherent", "hearbeat"] },
+		{ "id": "11,733,803-3", "hash": "0xec46 ... 8976", "extrinsic": ["parainherent", "hearbeat"] },
+		{ "id": "11,733,803-3", "hash": "0xec46 ... 8976", "extrinsic": ["parainherent", "hearbeat"] },
+		{ "id": "11,733,803-3", "hash": "0xec46 ... 8976", "extrinsic": ["parainherent", "hearbeat"] },
+		{ "id": "11,733,803-3", "hash": "0xec46 ... 8976", "extrinsic": ["parainherent", "hearbeat"] },
+		{ "id": "11,733,803-3", "hash": "0xec46 ... 8976", "extrinsic": ["parainherent", "hearbeat"] },
+		{ "id": "11,733,803-3", "hash": "0xec46 ... 8976", "extrinsic": ["parainherent", "hearbeat"] },
+		{ "id": "11,733,803-3", "hash": "0xec46 ... 8976", "extrinsic": ["parainherent", "hearbeat"] }
+	],
+	"events":
+	[
+		{ "id": "11,733,803-3", "event": ["imOnline", "HearbeatReceived"] },
+		{ "id": "11,733,803-3", "event": ["imOnline", "HearbeatReceived"] },
+		{ "id": "11,733,803-3", "event": ["imOnline", "HearbeatReceived"] },
+		{ "id": "11,733,803-3", "event": ["imOnline", "HearbeatReceived"] },
+		{ "id": "11,733,803-3", "event": ["imOnline", "HearbeatReceived"] },
+		{ "id": "11,733,803-3", "event": ["imOnline", "HearbeatReceived"] },
+		{ "id": "11,733,803-3", "event": ["imOnline", "HearbeatReceived"] },
+		{ "id": "11,733,803-3", "event": ["imOnline", "HearbeatReceived"] },
+		{ "id": "11,733,803-3", "event": ["imOnline", "HearbeatReceived"] },
+		{ "id": "11,733,803-3", "event": ["imOnline", "HearbeatReceived"] }
+	]
+}

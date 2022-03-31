@@ -1,0 +1,9 @@
+@import '../components/menu/submenu.scss';
+
+@mixin MENU
+{
+	nav
+	{
+		@include SUBMENU;
+	}
+}

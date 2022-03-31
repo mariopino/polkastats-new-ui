@@ -1,0 +1,20 @@
+@use '../menu/submenu.scss';
+
+@mixin DROPDOWN
+{
+	dropdown
+	{
+		@extend %BUTTON_BASE;
+		@extend %SUBMENU_BASE;
+
+		&:focus
+		{
+			@extend %SUBMENU_BASE_ACTIVE;
+		}
+
+		> [icon]
+		{
+			margin-right: 0.5em;
+		}
+	}
+}

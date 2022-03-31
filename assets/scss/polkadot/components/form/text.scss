@@ -1,0 +1,20 @@
+@use '../../variables/colors/colors.scss' as COLOR;
+
+@mixin INPUT_TEXT
+{
+	input[type="text"]
+	{
+		font-size: 1em;
+		width: 100%;
+		padding: 0.8em;
+		color: COLOR.$fifth;
+		background-color: transparent;
+		border: 0.2em solid COLOR.$fourthB;
+		border-radius: 0.4em;
+
+		&::placeholder
+		{
+			color: COLOR.$fifth;
+		}
+	}
+}

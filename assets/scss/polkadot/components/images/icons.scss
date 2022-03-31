@@ -1,0 +1,123 @@
+@use '../../variables/fonts/families.scss' as FONT;
+
+%ARROW_DOWN
+{
+	font-family: FONT.$Icon;
+	font-weight: bold;
+	content: '\f078';
+}
+
+@mixin INTERNAL
+{
+	[icon]
+	{
+		font-style: normal;
+		font-size: 1em;
+		position: relative;
+	
+		&::before
+		{
+			content: '';
+			font-family: FONT.$Icon;
+			font-weight: bold;
+			display: inline;
+			background-size: cover;
+			background-position: center;
+			background-repeat: no-repeat;
+		}
+	}
+	
+	[icon="kusama"]::before
+	{
+		display: inline-block;
+		background-size: 1.6em;
+		width: 1.3em;
+		height: 0.8em;
+	}
+	
+	[icon="avatar"]::before
+	{
+		font-size: 1.6em;
+		display: inline-block;
+		background-size: 1em;
+		width: 1em;
+		height: 1em;
+		vertical-align: top;
+		background-image: url(assets/images/icons/avatar.png);
+	}
+	
+	[icon="kusama"]:not([color])::before
+	{
+		background-image: url(assets/images/icons/kusama-ksm-logo.svg);
+	}
+	
+	[icon="kusama"][color="secondary"]::before
+	{
+		background-image: url(assets/images/icons/kusama-ksm-logo-secondary.svg);
+	}
+
+	[icon="menu"]::before
+	{
+		display: inline-block;
+		width: 1.3em;
+		height: 0.8em;
+		background-image: url(assets/images/icons/menu.svg);
+	}
+}
+
+@mixin EXTERNAL
+{
+	// [icon="menu"]::before
+	// {
+	// 	content: '\f0c9';
+	// 	content: '\f550';
+	// }
+
+	[icon="search"]::before
+	{
+		content: '\f002';
+	}
+
+	[icon="check"]
+	{
+		&::before
+		{
+			content: '\f00c';
+		}
+
+		&[color="completed"]
+		{
+			color: green;
+		}
+	}
+
+	[icon="name"]::before
+	{
+		content: '\f099';
+	}
+	
+	[icon="email"]::before
+	{
+		content: '\f0e0';
+	}
+	
+	[icon="key"]::before
+	{
+		content: '\f084';
+	}
+	
+	[icon="facebook"]::before
+	{
+		content: '\f39e';
+	}
+	
+	[icon="instagram"]::before
+	{
+		content: '\f16d';
+	}
+	
+	[icon="twitter"]::before
+	{
+		content: '\f099';
+	}
+}
